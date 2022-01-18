@@ -10,7 +10,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
  * Date: 2021-04-13
  * Time: 오후 4:32
  */
-@EnableJpaAuditing
+//@EnableJpaAuditing
 @SpringBootApplication
 public class Application {
     public static void main(String[] args) {
